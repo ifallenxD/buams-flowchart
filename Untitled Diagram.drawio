@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1638" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1927" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,26 +22,32 @@
         <mxCell id="zobNE9UnBBPuIwP9HheT-9" value="Manage Consumable Supplies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="210" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zobNE9UnBBPuIwP9HheT-10" target="zobNE9UnBBPuIwP9HheT-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-10" value="Manage Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zobNE9UnBBPuIwP9HheT-11" target="zobNE9UnBBPuIwP9HheT-194">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-11" value="Manage Reports" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="54" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-12" value="Manage Custodians" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-13" value="Manage Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="394" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="454" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-14" value="Manage Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-15" value="Manage Colleges and Offices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-27" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="1720" width="570" height="595" as="geometry" />
+          <mxGeometry x="150" y="2630" width="570" height="595" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
           <mxGeometry width="570" height="595" as="geometry" />
@@ -74,13 +80,13 @@
           <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-28" value="Manage User Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="2350" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-29" value="View Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-30" value="Search Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-34" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
@@ -112,7 +118,7 @@
         <mxCell id="zobNE9UnBBPuIwP9HheT-63" value="View Consumable Supply Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-48">
           <mxGeometry x="175" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-82" value="Print Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-48">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-82" value="Issue Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-48">
           <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-93" value="Re-print Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-48">
@@ -142,7 +148,7 @@
         <mxCell id="zobNE9UnBBPuIwP9HheT-89" value="View Consumable Supply Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-83">
           <mxGeometry x="655" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-90" value="Print Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-83">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-90" value="Issue Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-83">
           <mxGeometry x="25" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-95" value="Re-print Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-83">
@@ -150,6 +156,135 @@
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-120" value="Delete Request and Issue Slip (RIS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-83">
           <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zobNE9UnBBPuIwP9HheT-122" target="zobNE9UnBBPuIwP9HheT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-122" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-125" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1050" width="800" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-126" value="Properties" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry width="800" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-127" value="Add New Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="179" y="46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-128" value="Add Existing Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="25" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-129" value="View Property Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="335" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-130" value="&amp;nbsp;Edit Property Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="495" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-131" value="Mark as Untraceable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="655" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-132" value="View Individual Property Inventory History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="25" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-133" value="Add to Cart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="179" y="131" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-134" value="Issue Property, Plant, and Equipment to Custodian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-135" value="Issue Semi-Expendable to Custodian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="495" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-136" value="Transfer Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="655" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-140" value="Return Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="25" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-141" value="View Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="179" y="211" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-142" value="View Inventory Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="335" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-143" value="Issue Property Acknowledgement Receipt (PAR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="495" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-144" value="Re-print Property Acknowledgement Receipt (PAR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="650" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-162" value="Delete Property Acknowledgement Receipt (PAR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="25" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-163" value="Issue Inventory Custodian Slip (ICS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="179" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-165" value="Re-print Inventory Custodian Slip (ICS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="335" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-166" value="Delete Inventory Custodian Slip (ICS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="495" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-167" value="Issue Property Return Slip (PRS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="655" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-190" value="Re-print Property Return Slip (PRS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="25" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-191" value="Delete Property Return Slip(PRS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="179" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-192" value="Generate QR Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="335" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-193" value="Export/ Print QR Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-125">
+          <mxGeometry x="495" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-194" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-196" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1790" width="800" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-197" value="Report" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry width="800" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-198" value="Print/ Export Consumable Stock Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="179" y="46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-199" value="View Consumable Stock Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="25" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-200" value="Generate Report on Physical Count of Inventories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="335" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-201" value="Export Report on Physical Count of Inventories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="495" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-202" value="Generate Report on Supplies and Materials Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="655" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-203" value="Export Report on Supplies and Materials Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="25" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-204" value="Generate Report on Requisition of Common Use Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="179" y="131" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-205" value="Export Report on Requisition of Common Use Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-206" value="Generate Report on Physical Count of Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="495" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-207" value="Export Report on Physical Count of Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="655" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-208" value="Generate Report on Inventory and Inspection of Unserviceable Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="25" y="210" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-209" value="Export Report on Inventory and Inspection of Unserviceable Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+          <mxGeometry x="179" y="210" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
