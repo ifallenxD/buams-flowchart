@@ -34,56 +34,11 @@
         <mxCell id="zobNE9UnBBPuIwP9HheT-11" value="Manage Reports" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="54" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-12" value="Manage Custodians" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="2520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-13" value="Manage Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="454" y="2520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-14" value="Manage Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="2520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-15" value="Manage Colleges and Offices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="2520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-27" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="2630" width="570" height="595" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry width="570" height="595" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-16" value="Manage Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-17" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="230" y="120" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-18" value="Manage Consumable Supply Categories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-19" value="Manage Property Categories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-20" value="Manage Property Classifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-21" value="Manage Property Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-22" value="Manage Suppliers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="140" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-23" value="Manage Funds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-24" value="Manage IAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
-          <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-28" value="Manage User Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-29" value="View Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="3370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-30" value="Search Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="950" width="120" height="60" as="geometry" />
@@ -244,46 +199,91 @@
         <mxCell id="zobNE9UnBBPuIwP9HheT-194" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="1690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-196" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="1790" width="800" height="570" as="geometry" />
+        <mxCell id="zobNE9UnBBPuIwP9HheT-12" value="Manage Custodians" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-197" value="Report" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-13" value="Manage Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-14" value="Manage Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-15" value="Manage Colleges and Offices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-27" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2550" width="570" height="595" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry width="570" height="595" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-16" value="Manage Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-17" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="230" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-18" value="Manage Consumable Supply Categories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-19" value="Manage Property Categories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-20" value="Manage Property Classifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-21" value="Manage Property Models" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-22" value="Manage Suppliers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="140" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-23" value="Manage Funds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-24" value="Manage IAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-27">
+          <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-224" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="1790" width="800" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-197" value="Report" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry width="800" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-198" value="Print/ Export Consumable Stock Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-198" value="Print/ Export Consumable Stock Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="179" y="46" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-199" value="View Consumable Stock Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-199" value="View Consumable Stock Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="25" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-200" value="Generate Report on Physical Count of Inventories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-200" value="Generate Report on Physical Count of Inventories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="335" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-201" value="Export Report on Physical Count of Inventories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-201" value="Export Report on Physical Count of Inventories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="495" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-202" value="Generate Report on Supplies and Materials Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-202" value="Generate Report on Supplies and Materials Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="655" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-203" value="Export Report on Supplies and Materials Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-203" value="Export Report on Supplies and Materials Issued" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="25" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-204" value="Generate Report on Requisition of Common Use Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-204" value="Generate Report on Requisition of Common Use Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="179" y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-205" value="Export Report on Requisition of Common Use Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-205" value="Export Report on Requisition of Common Use Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-206" value="Generate Report on Physical Count of Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-206" value="Generate Report on Physical Count of Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="495" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-207" value="Export Report on Physical Count of Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-207" value="Export Report on Physical Count of Properties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="655" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-208" value="Generate Report on Inventory and Inspection of Unserviceable Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-208" value="Generate Report on Inventory and Inspection of Unserviceable Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="25" y="210" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-209" value="Export Report on Inventory and Inspection of Unserviceable Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-196">
+        <mxCell id="zobNE9UnBBPuIwP9HheT-209" value="Export Report on Inventory and Inspection of Unserviceable Property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zobNE9UnBBPuIwP9HheT-224">
           <mxGeometry x="179" y="210" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
