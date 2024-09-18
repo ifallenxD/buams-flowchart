@@ -34,12 +34,6 @@
         <mxCell id="zobNE9UnBBPuIwP9HheT-11" value="Manage Reports" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="54" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-28" value="Manage User Items" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="216" y="5850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-29" value="View Logs" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="206" y="5960" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-30" value="Search Property" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="950" width="120" height="60" as="geometry" />
         </mxCell>
@@ -207,9 +201,6 @@
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-13" value="Manage Employees" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="2160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-14" value="Manage Users" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="5040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="daJxAGddjkQ2mKGZi2Ez-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zobNE9UnBBPuIwP9HheT-15" target="8SGGRO-v3dYa-1YD8nXN-14">
           <mxGeometry relative="1" as="geometry" />
@@ -418,41 +409,11 @@
         <mxCell id="8SGGRO-v3dYa-1YD8nXN-20" value="Add Office" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="3310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="5680" width="570" height="595" as="geometry" />
-        </mxCell>
         <mxCell id="8SGGRO-v3dYa-1YD8nXN-21" value="View Office&amp;nbsp;Details" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="3310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8SGGRO-v3dYa-1YD8nXN-22" value="Edit Office&amp;nbsp;Details" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="3310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-16" value="Manage Settings" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="5730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-17" value="Actions" style="rhombus;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="5810" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-18" value="Manage Consumable Supply Categories" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="5980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-19" value="Manage Property Categories" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="6070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-20" value="Manage Property Classifications" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="6070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-22" value="Manage Suppliers" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="260" y="6160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-23" value="Manage Funds" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="6160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-24" value="Manage IAR" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="6160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zobNE9UnBBPuIwP9HheT-21" value="Manage Property Models" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="6070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="daJxAGddjkQ2mKGZi2Ez-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8SGGRO-v3dYa-1YD8nXN-28" target="8SGGRO-v3dYa-1YD8nXN-29">
           <mxGeometry relative="1" as="geometry" />
@@ -578,6 +539,45 @@
         </mxCell>
         <mxCell id="daJxAGddjkQ2mKGZi2Ez-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zobNE9UnBBPuIwP9HheT-12" target="8SGGRO-v3dYa-1YD8nXN-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="daJxAGddjkQ2mKGZi2Ez-38" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="4330" width="570" height="595" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-28" value="Manage User Items" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="106" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-29" value="View Logs" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="96" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry width="570" height="595" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-16" value="Manage Settings" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-17" value="Actions" style="rhombus;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="240" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-18" value="Manage Consumable Supply Categories" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-19" value="Manage Property Categories" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-20" value="Manage Property Classifications" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-22" value="Manage Suppliers" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="150" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-23" value="Manage Funds" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-24" value="Manage IAR" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zobNE9UnBBPuIwP9HheT-21" value="Manage Property Models" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
