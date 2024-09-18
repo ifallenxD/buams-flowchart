@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1638" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -12,6 +12,15 @@
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-6" value="Redirect To Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daJxAGddjkQ2mKGZi2Ez-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zobNE9UnBBPuIwP9HheT-7" target="zobNE9UnBBPuIwP9HheT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="160" />
+              <mxPoint x="30" y="160" />
+              <mxPoint x="30" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-7" value="Actions" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="40" width="80" height="80" as="geometry" />
@@ -578,6 +587,60 @@
         </mxCell>
         <mxCell id="zobNE9UnBBPuIwP9HheT-21" value="Manage Property Models" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="daJxAGddjkQ2mKGZi2Ez-38" vertex="1">
           <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NQ1c8Aio7E_e-3HyNmLE" name="Page-2">
+    <mxGraphModel dx="1638" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAqn3cvPWBCo-al6Mc9t-1" target="XAqn3cvPWBCo-al6Mc9t-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-1" value="Supply Officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="39" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAqn3cvPWBCo-al6Mc9t-4" target="XAqn3cvPWBCo-al6Mc9t-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="159" />
+              <mxPoint x="410" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-4" value="University Supply Officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="39" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XAqn3cvPWBCo-al6Mc9t-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="169" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="159" />
+              <mxPoint x="410" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="39" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-8" value="BU&lt;br&gt;ASSET&lt;br&gt;MANAGEMENT&lt;br&gt;SYSTEM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="172" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XAqn3cvPWBCo-al6Mc9t-12" target="XAqn3cvPWBCo-al6Mc9t-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="212" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAqn3cvPWBCo-al6Mc9t-12" value="Super Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="580" y="39" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
